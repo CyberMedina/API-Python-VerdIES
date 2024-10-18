@@ -51,6 +51,8 @@ predefined_questions = {
         'como contactar',
         'numero de contacto',
         'cual es su numero de telefono',
+        'contacto',
+        'telefono',
     ]
 }
 
